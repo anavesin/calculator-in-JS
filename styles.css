@@ -1,5 +1,5 @@
 #calculator{
-  font-family:Arial, sans.serif;
+  font-family: Arial, sans-serif;
   background-color: black;
   border-radius: 15px;
   max-width: 500px;
@@ -7,7 +7,7 @@
 }
 
 #keys{
-  display:grid;
+  display: grid;
   grid-template-columns:repeat(4,1fr);
   gap:10px;
   padding:25;
